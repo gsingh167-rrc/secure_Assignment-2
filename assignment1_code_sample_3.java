@@ -70,4 +70,6 @@ public class VulnerableApp {
         saveToDb(data);
         sendEmail("admin@example.com", "User Input", userInput);
     }
+
 }
+// trigger codesweep
